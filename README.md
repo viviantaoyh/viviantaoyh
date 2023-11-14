@@ -26,19 +26,14 @@
  ### 🦾 Tech Stack
 
  #### Languages
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-  </a>
-</p> -->
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://github.com/viviantaoyh)
 
 #### Frameworks & Technologies
-[![Frameworks & Tech](https://skillicons.dev/icons?i=react,express,nodejs,postgres,mongodb,threejs,tailwind)](https://skillicons.dev)
+[![Frameworks & Tech](https://skillicons.dev/icons?i=react,express,nodejs,postgres,mongodb,threejs,tailwind)](https://github.com/viviantaoyh)
 
 #### Development Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,vite,unity,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,vite,unity,postman)](https://github.com/viviantaoyh)
 
 
 ###
