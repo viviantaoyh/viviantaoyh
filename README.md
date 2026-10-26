@@ -13,10 +13,10 @@
     <a href="mailto:viviantao.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/viviantao/" target="_blank">
+  <a href="" target="_blank"> <!https://www.linkedin.com/in/viviantao/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://viviantao.surge.sh/" target="_blank">
+  <a href="" target="_blank"> <!https://viviantao.surge.sh/>
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"
  />
  </a>
